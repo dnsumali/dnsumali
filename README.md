@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimki Sumali</h1>
 <h3 align="center">A passionate UI/UX Designer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnsumali&label=Profile%20views&color=0e75b6&style=flat" alt="dnsumali" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I am currently pursuing a *Management Information System*.
